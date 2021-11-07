@@ -1,10 +1,10 @@
 <?php
 
 // require_once("core/Router.php");
-namespace app\core;
+namespace smcodes\phpmvc;
 use app\controllers\Controller;
-use app\core\db\Database;
-use app\core\db\DbModel;
+use smcodes\phpmvc\db\Database;
+use smcodes\phpmvc\db\DbModel;
 use app\models\User;
 
 class Application

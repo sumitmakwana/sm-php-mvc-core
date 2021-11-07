@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace smcodes\phpmvc;
 
 use app\controllers\Controller;
-use app\core\exception\NotFoundException;
+use smcodes\phpmvc\exception\NotFoundException;
 
 class Router
 {
