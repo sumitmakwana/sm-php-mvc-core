@@ -2,7 +2,7 @@
     "name": "smcodes/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "smcodes\\phpmvc": "."
+            "smcodes\\phpmvc\\": "."
         }
     },
     "authors": [
