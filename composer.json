@@ -1,0 +1,15 @@
+{
+    "name": "sm/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Sm\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sumit Makwana",
+            "email": "sumitmakwana00@gmail.com"
+        }
+    ],
+    "require": {}
+}
