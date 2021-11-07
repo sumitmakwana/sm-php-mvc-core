@@ -1,5 +1,5 @@
 {
-    "name": "sm/php-mvc-core",
+    "name": "smcodes/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Sm\\PhpMvcCore\\": "src/"
